@@ -1,0 +1,7 @@
+{
+  "name": "Gen-Z-AI",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
